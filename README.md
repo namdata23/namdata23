@@ -4,12 +4,12 @@
 <h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&pause=2000&size=35&color=555555&width=435&lines=Hi+There!+👋;I'm+Michael+Nam" alt="Typing SVG" /></a>
 </h1>
-<h3 align="center"> Is in the process of becoming a Data Analyst professional ! </h3>
+<h3 align="center"> Is in the process of becoming a Tester/QA/QC professional ! </h3>
 <img align ="right" alt=" Technology" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47b7c8zu2bob3llvnhu31vm9za1ttl0ih8d674olvn&ep=v1_gifs_related&rid=giphy.gif&ct=g" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namcvs&label=Profile%20views&color=0e75b6&style=flat" alt="namdata23" /> </p>
 
-- 📫 How to reach me **nam45668@gmail.com**
+- 📫 How to reach me **namitwork23@gmail.com**
 
 <h3 align="left">Connect with me by social media:  <a href="https://www.facebook.com/LVnamIT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/LVnamIT" height="30" width="40" /></a></h3>
 
